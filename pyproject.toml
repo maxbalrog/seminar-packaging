@@ -17,7 +17,7 @@ readme = "README.md"
 license = {file = "LICENSE"}
 keywords = ["spam", "e-mail", "call"]
 classifiers = [
-  "Development Status :: 1 - Alpha",
+  "Development Status :: 4 - Beta",
   "Programming Language :: Python"
 ]
 
