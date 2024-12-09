@@ -1,0 +1,27 @@
+[build-system]
+requires = ["setuptools >= 61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "spam-project"
+version = "0.1.0"
+dependencies = [
+  "numpy >= 2.0",
+]
+requires-python = ">=3.8"
+authors = [
+  {name = "maxbalrog", email = "my-email@example.com"},
+]
+description = "Print spam information as email or call."
+readme = "README.md"
+license = {file = "LICENSE"}
+keywords = ["spam", "e-mail", "call"]
+classifiers = [
+  "Development Status :: 4 - Beta",
+  "Programming Language :: Python"
+]
+
+[project.urls]
+Homepage = "https://example.com"
+Documentation = "https://readthedocs.org"
+Repository = "https://github.com/maxbalrog/seminar-packaging.git"
