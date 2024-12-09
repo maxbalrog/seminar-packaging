@@ -7,4 +7,4 @@ Resources:
 3. [Packaging Python projects](https://packaging.python.org/en/latest/tutorials/packaging-projects/)
 
 Small change in README...
-This change is not good!!!
+I really like this change.
